@@ -29,6 +29,10 @@
 
 	<repositories>
 		<repository>
+			<id>maven-central</id>
+			<url>https://repo1.maven.org/maven2/</url>
+		</repository>
+		<repository>
 			<id>nexus-public</id>
 			<url>http://nexus.aic.serpro/repository/public</url>
 		</repository>
